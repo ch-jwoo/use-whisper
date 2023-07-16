@@ -1,3 +1,16 @@
+# this is forked project
+
+- this project is only for trasncribing streaming audio.
+- I want to solve below problem from original chengsokdara's use-whisper
+  - when use streaming audio transcribing, lose initial audio.
+- So, queue is used to prevent audio loss.
+
+---
+
+---
+
+# Below contents is README of original project.
+
 # useWhisper
 
 React Hook for OpenAI Whisper API with speech recorder, real-time transcription and silence removal built-in
